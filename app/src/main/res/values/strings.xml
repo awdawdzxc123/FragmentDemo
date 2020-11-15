@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+    <string name="sou">搜索</string>
+    <string name="shij">时间</string>
+    <string name="textview">TextView</string>
+    <string name="tu">图片</string>
+    <string name="kuang">说两句...</string>
+</resources>
